@@ -4,18 +4,13 @@
 
        <title>GIT y GIHUB Repositorio compartido</title>
 
-
-
 </head>
 
 <body
 
-
      text="black">
 
 </center>
-
-
 
 <?php
 
@@ -24,9 +19,6 @@ class MyClass {
     public static $str = "<h3>Hi my name is Felipe Aranis";
 
     public static $JR = "Administracion de Servicios Web <br>";
-
-   
-
 }
 
 echo MyClass::$str."<br>";
@@ -40,8 +32,6 @@ date_default_timezone_set("America/Santiago");
 echo "La hora es: " .date("G:i:s");
 
 ?>
-
-
 
 </center>
 
